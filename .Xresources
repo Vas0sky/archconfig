@@ -1,0 +1,4 @@
+XTerm.vt100.reverseVideo: true
+xterm*faceName: DejaVu
+xterm*faceSize: 14
+xterm*renderFont: true
